@@ -1,5 +1,5 @@
-jsonresume-theme-nominaltech
+jsonresume-theme-sasha
 ================================
 Resume template for jsonresume.org
 
-Based on the [modern-extended](https://github.com/Zeikko/jsonresume-theme-modern-extended) template.
+Based on the [nominaltech](https://github.com/joshglendenning/jsonresume-theme-nominaltech) template.

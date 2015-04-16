@@ -1,21 +1,21 @@
 {
-  "name": "jsonresume-theme-nominaltech",
-  "version": "0.0.3",
-  "description": "Nominaltech JSON Resume theme.",
+  "name": "jsonresume-theme-sasha",
+  "version": "0.0.1",
+  "description": "Sasha JSON Resume theme.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/joshglendenning/jsonresume-theme-nominaltech"
+    "url": "https://github.com/drkyro/jsonresume-theme-sasha"
   },
-  "author": "Josh Glendenning",
+  "author": "Dan Vera",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joshglendenning/jsonresume-theme-nominaltech/issues"
+    "url": "https://github.com/drkyro/jsonresume-theme-sasha/issues"
   },
-  "homepage": "https://github.com/joshglendenning/jsonresume-theme-nominaltech",
+  "homepage": "https://github.com/drkyro/jsonresume-theme-sasha",
   "dependencies": {
     "gravatar": "^1.0.6",
     "lodash": "^2.4.1",

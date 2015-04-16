@@ -23,9 +23,6 @@
 					<h2>{{basics.label}}</h2>
 				</div>
 				<div class="col-sm-3 col-xs-12 text-center photo">
-					{{#basics.gravatar}}
-					<img class="media-object img-circle" data-src="holder.js/64x64" alt="64x64" src="{{basics.gravatar}}">
-					{{/basics.gravatar}}
 				</div>
 				</section>
 				<hr style="color: #ccc; height: 4px;" />
